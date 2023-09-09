@@ -3,7 +3,7 @@ import SlCheckbox from './checkbox.component.js';
 export * from './checkbox.component.js';
 export default SlCheckbox;
 
-SlCheckbox.define('sl-checkbox');
+SlCheckbox.define('dv-checkbox');
 
 declare global {
   interface HTMLElementTagNameMap {
