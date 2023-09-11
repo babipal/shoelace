@@ -2,7 +2,7 @@ _site
 .cache
 .DS_Store
 cdn
-dist
+# dist
 docs/assets/images/sprite.svg
 node_modules
 src/react
